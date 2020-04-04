@@ -1,4 +1,4 @@
-package com.rnds;
+package com.rndscrollview;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;
@@ -120,7 +120,7 @@ public class DirectedScrollView extends ReactViewGroup {
 
   @Override
   public boolean onTouchEvent(MotionEvent motionEvent) {
-    Log.w("RNDS", "Parent onTouchEvent." + motionEvent.toString());
+    Log.w("rndscrollview", "Parent onTouchEvent." + motionEvent.toString());
 
     switch (motionEvent.getAction()) {
       case MotionEvent.ACTION_DOWN:

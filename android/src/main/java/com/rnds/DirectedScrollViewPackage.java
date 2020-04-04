@@ -1,4 +1,4 @@
-package com.rnds;
+package com.rndscrollview;
 
 import java.util.ArrayList;
 import java.util.Collections;

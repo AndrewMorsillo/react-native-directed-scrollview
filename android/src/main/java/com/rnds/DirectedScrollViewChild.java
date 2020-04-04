@@ -1,4 +1,4 @@
-package com.rnds;
+package com.rndscrollview;
 
 import android.content.Context;
 import com.facebook.common.internal.Objects;
