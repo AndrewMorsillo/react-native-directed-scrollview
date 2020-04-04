@@ -1,4 +1,4 @@
-package com.rndscrollview;
+package com.whetware.rndscrollview;
 
 import android.animation.ObjectAnimator;
 import android.content.Context;

@@ -1,4 +1,4 @@
-package com.rndscrollview;
+package com.whetware.rndscrollview;
 
 import androidx.annotation.Nullable;
 import androidx.annotation.NonNull;
