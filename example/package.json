@@ -7,13 +7,13 @@
     "ios": "react-native run-ios",
     "start": "react-native start",
     "test": "jest",
-    "sync": "cp -r ../*podspec ../lib ../android ../ios ../src ../package.json ./node_modules/@kevinsperrine/react-native-directed-scrollview"
+    "sync": "cp -r ../*podspec ../lib ../android ../ios ../src ../package.json ./node_modules/@AndrewMorsillo/react-native-directed-scrollview"
   },
   "peerDependencies": {
     "react-native": "^0.61.2"
   },
   "dependencies": {
-    "@kevinsperrine/react-native-directed-scrollview": "../"
+    "AndrewMorsillo/react-native-directed-scrollview": "../"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",

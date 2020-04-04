@@ -1,7 +1,7 @@
 import {
   DirectedScrollView,
   DirectedScrollViewChild,
-} from '@kevinsperrine/react-native-directed-scrollview';
+} from '@AndrewMorsillo/react-native-directed-scrollview';
 import React, {Component} from 'react';
 import {StyleSheet, View} from 'react-native';
 import {getCellsByRow} from '../data';
